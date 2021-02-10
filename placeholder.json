@@ -1,0 +1,20 @@
+{
+	"Scores":[
+		{
+			"User":"Abi",
+			"Score":20
+		},
+		{
+			"User":"Sai",
+			"Score":22
+		},
+		{
+			"User":"Veera",
+			"Score":204
+		},
+		{
+			"User":"Mac",
+			"Score":123
+		}
+	]
+}
